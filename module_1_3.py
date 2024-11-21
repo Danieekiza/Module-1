@@ -1,10 +1,9 @@
 #module_1_3
-name = 'Hellow'
-print('name:',name)
+name = 'Danil'
+print('Name:',name)
 age = 33
 print('Age:', age)
 age = age + 5.598769
 print('New Age:', age)
 is_student = True
-print('is_student:',is_student)
-
+print('is Student:',is_student)
